@@ -1,0 +1,16 @@
+<h4 class="thu"><span>목요 웹툰</span></h4>
+					<ul>
+
+                            <li>
+                                <div class="thumb">
+									<a href="/webtoon/list.nhn?titleId=570503&weekday=thu"
+									   onclick="nclk_v2(event,'thm*T.img','','1')">
+										<img onerror="this.src='https://ssl.pstatic.net/static/comic/images/migration/common/blank.gif'"
+											 src="https://shared-comic.pstatic.net/thumb/webtoon/570503/thumbnail/thumbnail_IMAG10_5719a3fe-81f4-4a0c-8c27-eca1631e8384.jpg" width="83" height="90"
+											 title="연애혁명" alt="연애혁명"><span class="mask"></span>
+
+											<em class="ico_break">휴재</em>
+
+
+
+									</a>
